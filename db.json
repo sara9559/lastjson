@@ -1,0 +1,65 @@
+{
+  "providerName": "JamKing",
+  "language": "en-US",
+  "lastUpdated": "2020-03-16T03:41:32.125Z",
+  "movies": [
+    {
+      "id": "coro40b268fa4766aa1612131aa74n31",
+      "title": "Coronavirus World Map",
+      "shortDescription": "Novel coronavirus Live Streaming: Breaking news, world Map and live counter on confirmed cases, recovered cases(COVID-19).",
+      "thumbnail": "https://ia601407.us.archive.org/33/items/corona_20200317/CORONA.png",
+      "genres": [
+        "horror",
+        "history",
+        "action"
+      ],
+      "tags": [
+        "Corona news",
+        "coronavirus",
+        "corona live",
+        "corona news today",
+        "coronavirus now"
+      ],
+      "releaseDate": "2020-03-16",
+      "content": {
+        "dateAdded": "2020-03-16T18:31:30.431Z",
+        "captions": [],
+        "duration": 4168,
+        "adBreaks": [
+          "00:00:20",
+          "00:07:20",
+          "00:16:05",
+          "00:24:05",
+          "00:32:05",
+          "00:40:05",
+          "00:48:05",
+          "00:56:05",
+          "01:04:05",
+          "01:09:05"
+        ],
+        "videos": [
+          {
+            "url": "https://ia801408.us.archive.org/6/items/vlcrecord2020031619h13m16slivecoronaviruspandemicrealtimecounterworldmapnews/vlc-record-2020-03-16-19h13m16s-%5BLIVE%5D%20Coronavirus%20Pandemic_%20Real%20Time%20Counter%2C%20World%20Map%2C%20News-.mp4",
+            "quality": "HD",
+            "videoType": "MP4"
+          }
+        ]
+      }
+    }
+  ],
+  "playlists": [
+    {
+      "name": "Corona live",
+      "itemIds": [
+        "coro40b268fa4766aa1612131aa74n31"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Corona map",
+      "playlistName": "Corona live",
+      "order": "manual"
+    }
+  ]
+}
